@@ -14,7 +14,7 @@
         <div class="col-12 col-md-8">
             <div class="card">
                 <div class="card-header">
-                    <i class="fa-solid fa-list-check"></i> Crear checklist contable
+                    <i class="fa-solid fa-list-check"></i> Crear checklist gestión humana
                 </div>
                 <div class="card-body">
                     <form method="POST" action="{{ route('admin.checklist_empresas.store') }}" enctype="multipart/form-data">

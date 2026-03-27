@@ -15,7 +15,7 @@
         <div class="col-12 col-md-6">
             <div class="card">
                 <div class="card-header">
-                    <i class="fa-solid fa-list-check"></i> Editar checklist contable
+                    <i class="fa-solid fa-list-check"></i> Editar checklist gestión humana
                 </div>
                 <div class="card-body">
                     <form method="POST" action="{{ route('admin.checklist_empresas.update', $checklist->id) }}">
