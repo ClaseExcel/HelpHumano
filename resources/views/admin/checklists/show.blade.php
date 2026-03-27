@@ -4,6 +4,7 @@
     @include('cdn.datatables-head')
 @endsection
 @section('content')
+
     <style>
         .maxt-text-resume {
             max-height: 585px;
