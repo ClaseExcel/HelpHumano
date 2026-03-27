@@ -24,14 +24,14 @@ class EmpresaSeeder extends Seeder
                 'direccion_fisica'   => 'Cr 00 #00-00',
                 'frecuencia_id'      => 1
             ],
-            [
-                'NIT'                => '9017429812',
-                'razon_social'       => 'Empresa Test 01',
-                'numero_contacto'    => '3105343272',
-                'correo_electronico' => 'empresa01@test.com',
-                'direccion_fisica'   => 'CARRERA 40 A 7 51 A OFICINA 1506',
-                'frecuencia_id'      => 2,
-            ],
+            // [
+            //     'NIT'                => '9017429812',
+            //     'razon_social'       => 'Empresa Test 01',
+            //     'numero_contacto'    => '3105343272',
+            //     'correo_electronico' => 'empresa01@test.com',
+            //     'direccion_fisica'   => 'CARRERA 40 A 7 51 A OFICINA 1506',
+            //     'frecuencia_id'      => 2,
+            // ],
                         
         ];
 
